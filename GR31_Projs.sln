@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ゴムひも", "ゴムひ�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ばね", "ばね\ばね.vcxproj", "{FA371DB1-56DD-4558-9B7D-831EDD533E5A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "布", "布\布.vcxproj", "{72B5F4FB-3DFC-450C-82DC-877D2055A506}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{FA371DB1-56DD-4558-9B7D-831EDD533E5A}.Release|x64.Build.0 = Release|x64
 		{FA371DB1-56DD-4558-9B7D-831EDD533E5A}.Release|x86.ActiveCfg = Release|Win32
 		{FA371DB1-56DD-4558-9B7D-831EDD533E5A}.Release|x86.Build.0 = Release|Win32
+		{72B5F4FB-3DFC-450C-82DC-877D2055A506}.Debug|x64.ActiveCfg = Debug|x64
+		{72B5F4FB-3DFC-450C-82DC-877D2055A506}.Debug|x64.Build.0 = Debug|x64
+		{72B5F4FB-3DFC-450C-82DC-877D2055A506}.Debug|x86.ActiveCfg = Debug|Win32
+		{72B5F4FB-3DFC-450C-82DC-877D2055A506}.Debug|x86.Build.0 = Debug|Win32
+		{72B5F4FB-3DFC-450C-82DC-877D2055A506}.Release|x64.ActiveCfg = Release|x64
+		{72B5F4FB-3DFC-450C-82DC-877D2055A506}.Release|x64.Build.0 = Release|x64
+		{72B5F4FB-3DFC-450C-82DC-877D2055A506}.Release|x86.ActiveCfg = Release|Win32
+		{72B5F4FB-3DFC-450C-82DC-877D2055A506}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
